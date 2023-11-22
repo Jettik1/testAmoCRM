@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    background: #0E1014;
+
+    color: #E4E5EA;
+}
+
+header {
+    width: 100vw;
+    height: 73px;
+    top: 46px;
+    left: 150px;
+}
+
+main {
+    width: 100vw;
+}
+
+footer {
+    width: 100%;
+    height: 315px;
+    bottom: 20px;
+    width: 1141px;
+    height: 315px;
+    top: 665px;
+    left: 149px;
+}
+
+
+
+.social {
+    display: flex;
+    justify-content: space-between;
+}
+
+.social a {
+    margin-right: 30px;
+}
+
+.phone {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #E4E5EA;
+}
+
+.header-line {
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-container {
+    margin: 0px 150px;
+}
+
+.menu a {
+    color: #E4E5EA;
+    text-decoration: none;
+    font-weight: 500;
+    margin-right: 30px;
+}
+
+
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 0;
+    margin-bottom: 0;
+
+}
+
+
+.text {
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #E4E5EA;
+}
+
+.logo {
+    width: 140px;
+    height: 24px;
+    top: 11px;
+}
+
+.whatsapp {
+    width: 20px;
+    height: 20px;
+    top: 13px;
+    left: 1122px;
+    padding: 2px;
+}
+
+.telegram {
+    width: 20px;
+    height: 20px;
+    top: 3.01px;
+    left: 1.67px;
+}
+
+.viber {
+    width: 20px;
+    height: 20px;
+    top: 14px;
+    left: 1072px;
+    padding: 2px, 2px, 1.8px, 2px;
+}
+
+.phone {
+    width: 143px;
+    height: 19px;
+    top: 15px;
+    left: 832px;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+
+.main-container {
+    margin: 0 150px;
+}
+
+
+.main-body {
+    width: 100%;
+}
+
+.main-container {
+    margin: 0 150px;
+}
+
+
+.footer-container {
+    margin: 0 150px;
+    display: flex;
+}
